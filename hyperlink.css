@@ -1,0 +1,199 @@
+a.class1:link {
+            text-decoration: none;
+        }
+        
+        a.class1:visited {
+            text-decoration: none;
+        }
+        
+        a.class1:hover {
+            text-decoration: underline;
+            background-color: rgb(243, 122, 122);
+        }
+        
+        a.class1:active {
+            text-decoration: underline;
+        }
+        
+        a.class2:link {
+            text-decoration: none;
+        }
+        
+        a.class2:visited {
+            text-decoration: none;
+        }
+        
+        a.class2:hover {
+            text-decoration: underline;
+            background-color: rgb(243, 122, 122);
+        }
+        
+        a.class2:active {
+            text-decoration: underline;
+        }
+        
+        a.class3:link {
+            text-decoration: none;
+        }
+        
+        a.class3:visited {
+            text-decoration: none;
+        }
+        
+        a.class3:hover {
+            text-decoration: underline;
+            background-color: rgb(243, 122, 122);
+        }
+        
+        a.class3:active {
+            text-decoration: underline;
+        }
+        
+        a.class4:link {
+            text-decoration: none;
+        }
+        
+        a.class4:visited {
+            text-decoration: none;
+        }
+        
+        a.class4:hover {
+            text-decoration: underline;
+            background-color: rgb(243, 122, 122);
+        }
+        
+        a.class4:active {
+            text-decoration: underline;
+        }
+        
+        a.class5:link {
+            text-decoration: none;
+        }
+        
+        a.class5:visited {
+            text-decoration: none;
+        }
+        
+        a.class5:hover {
+            text-decoration: underline;
+            background-color: rgb(243, 122, 122);
+        }
+        
+        a.class5:active {
+            text-decoration: underline;
+        }
+\\style for navigation bar\\
+\\home 	
+a.nav1:link {
+            text-decoration: none;
+        }
+        
+        a.nav1:visited {
+            text-decoration: none;
+	    color : white;
+        }
+        
+        a.nav1:hover {
+            text-decoration: underline;
+	    padding : 20px;
+            background-color: rgb(17,17,17);
+        }
+        
+        a.nav1:active {
+            text-decoration: none;
+        }
+\\destination and package
+a.nav2:link {
+            text-decoration: none;
+        }
+        
+        a.nav2:visited {
+            text-decoration: none;
+	    color : white;
+        }
+        
+        a.nav2:hover {
+            text-decoration: underline;
+	    padding : 20px;
+            background-color: rgb(17,17,17);
+        }
+        
+        a.nav2:active {
+            text-decoration: none;
+        }
+\\hotel booking
+a.nav3:link {
+            text-decoration: none;
+        }
+        
+        a.nav3:visited {
+            text-decoration: none;
+	    color : white;
+        }
+        
+        a.nav3:hover {
+            text-decoration: underline;
+	    padding : 20px;
+            background-color: rgb(17,17,17);
+        }
+        
+        a.nav3:active {
+            text-decoration: none;
+        }
+\\reviews
+a.nav4:link {
+            text-decoration: none;
+        }
+        
+        a.nav4:visited {
+            text-decoration: none;
+	    color : white;
+        }
+        
+        a.nav4:hover {
+            text-decoration: underline;
+	    padding : 20px;
+            background-color: rgb(17,17,17);
+        }
+        
+        a.nav4:active {
+            text-decoration: none;
+        }
+\\details
+a.nav5:link {
+            text-decoration: none;
+        }
+        
+        a.nav5:visited {
+            text-decoration: none;
+	    color : white;
+        }
+        
+        a.nav5:hover {
+            text-decoration: underline;
+	    padding : 20px;
+            background-color: rgb(17,17,17);
+        }
+        
+        a.nav5:active {
+            text-decoration: none;
+        }
+\\rate us
+a.nav6:link {
+            text-decoration: none;
+        }
+        
+        a.nav6:visited {
+            text-decoration: none;
+	    color : white;
+        }
+        
+        a.nav6:hover {
+            text-decoration: underline;
+	    padding : 20px;
+            background-color: rgb(17,17,17);
+        }
+        
+        a.nav6:active {
+            text-decoration: none;
+        }

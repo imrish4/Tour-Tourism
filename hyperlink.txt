@@ -1,0 +1,84 @@
+a.class1:link {
+            text-decoration: none;
+        }
+        
+        a.class1:visited {
+            text-decoration: none;
+        }
+        
+        a.class1:hover {
+            text-decoration: underline;
+            background-color: rgb(243, 122, 122);
+        }
+        
+        a.class1:active {
+            text-decoration: underline;
+        }
+        
+        a.class2:link {
+            text-decoration: none;
+        }
+        
+        a.class2:visited {
+            text-decoration: none;
+        }
+        
+        a.class2:hover {
+            text-decoration: underline;
+            background-color: rgb(243, 122, 122);
+        }
+        
+        a.class2:active {
+            text-decoration: underline;
+        }
+        
+        a.class3:link {
+            text-decoration: none;
+        }
+        
+        a.class3:visited {
+            text-decoration: none;
+        }
+        
+        a.class3:hover {
+            text-decoration: underline;
+            background-color: rgb(243, 122, 122);
+        }
+        
+        a.class3:active {
+            text-decoration: underline;
+        }
+        
+        a.class4:link {
+            text-decoration: none;
+        }
+        
+        a.class4:visited {
+            text-decoration: none;
+        }
+        
+        a.class4:hover {
+            text-decoration: underline;
+            background-color: rgb(243, 122, 122);
+        }
+        
+        a.class4:active {
+            text-decoration: underline;
+        }
+        
+        a.class5:link {
+            text-decoration: none;
+        }
+        
+        a.class5:visited {
+            text-decoration: none;
+        }
+        
+        a.class5:hover {
+            text-decoration: underline;
+            background-color: rgb(243, 122, 122);
+        }
+        
+        a.class5:active {
+            text-decoration: underline;
+        }

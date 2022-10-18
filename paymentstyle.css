@@ -1,0 +1,25 @@
+.required {
+    color: red;
+}
+
+.header {
+    padding: 10px 15px;
+    background: rgb(94, 89, 89);
+    color: rgb(255, 255, 255);
+}
+
+.b1 {
+    background: rgb(121, 117, 117);
+    color: white;
+    padding: 10px 25px;
+    border-radius: 15px;
+}
+
+input {
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: rgb(58, 55, 55);
+    padding: 10px 25px;
+}
